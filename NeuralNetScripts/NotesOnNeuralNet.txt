@@ -1,0 +1,6 @@
+this was my first attempt at making an evolutional neural net, made in 2020, when I was 14.
+it's not working as of yet, and I don't think I'll complete it for a while.
+In theory it's almost done but the training and/or the creation of genes has some issues.
+idk if it's even a viable idea, but it might work in the future; who knows?
+Once again I made it in Unity, since I hadn't found anything I liked better for the job; and besides, I wasn't familiar with anything else at that point.
+anyways,here's the scripts, hope you like them (:
