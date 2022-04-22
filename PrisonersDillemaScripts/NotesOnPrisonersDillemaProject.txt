@@ -1,0 +1,7 @@
+this was one of the first projects I made, and one of the ones that took me the most time to complete, mainly because I wasnt all that great at coding when I started (I'm still not) and couldn't figure out a bug until I revisited it 3 years later.
+it's as the name suggests, a prisoner's dillema simulation, with a few different strategies programmed.
+I did it in unity because that was at the time the only way I knew to make anything not text based, as I hadn't figured out web development back then.
+I'd wish for anyone who takes a look to keep in mind most of these scripts were made back when I had just started programming, so they're really not that great.
+These are the scripts used on that project(:
+
+
